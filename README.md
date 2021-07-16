@@ -8,7 +8,7 @@ by 3-year Master of Business Administration training (2004) and by 3-year psycho
 - 📫 Reach him at [LinkedIn](https://www.linkedin.com/in/lubomir-straka-7361031/), [Kaggle](https://www.kaggle.com/lubomrstraka), [Twitter](https://twitter.com/LubomirStraka),
 [Facebook](https://www.facebook.com/lubomir.straka.7).
 
-# 📚 Digital Practicioner Body of Knowledge
+# 📚 Digital Practitioner Body of Knowledge
 Ready to standardize your digital practice? **[Adopt DPBoK](https://zentao.notion.site/Adopt-DPBoK-9d546b87161c4af3ad56061c2a135e7c)**
 (or just see how to use a "diagram as a code" by [PlantUML](https://plantuml.com/) within [Notion](https://en.wikipedia.org/wiki/Notion_(productivity_software)) collaboration platform)!
 
