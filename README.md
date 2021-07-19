@@ -40,6 +40,8 @@ Language aims to equip you with those tools and advise you need to thrive and su
 + Stand out from the crowd
 + Be responsive
 
+Also: [How to write a winning bid](https://www.freelancer.com/articles/freelancer-insights/writing-a-winning-bid)
+
 **Digital Practitioner Body of Knowledge**
 Ready to standardize your digital practice? **[Adopt DPBoK](https://zentao.notion.site/Adopt-DPBoK-9d546b87161c4af3ad56061c2a135e7c)**
 (or just see how to use a "diagram as a code" by [PlantUML](https://plantuml.com/) within [Notion](https://en.wikipedia.org/wiki/Notion_(productivity_software)) collaboration platform)!
