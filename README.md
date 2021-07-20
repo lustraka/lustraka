@@ -1,8 +1,8 @@
 # 🧭 About Me
-- 👋 Lubomir Straka is a seasoned business analyst with a passion for knowledge-driven decision making.
+- 👋 Lubomir Straka is a seasoned business analyst with a passion for knowledge-driven decision making. **It's hard to make good decisions when you're missing key pieces of information.**
 - 👀 Lubomir specializes in accounting information systems, data-analytical thinking, and business intelligence. He has system engineering background (1993) augmented 
 by 3-year Master of Business Administration training (2004) and by 3-year psychological training in Organizational Transactional Analysis (2012).
-- 🌱 He eagerly conquers domains such mental models ([Farnam Street Learning Community](https://lc.fs.blog/)), managerial and financial accounting
+- 🌱 He eagerly conquers domains such as mental models ([Farnam Street Learning Community](https://lc.fs.blog/)), managerial and financial accounting
 (incl. eXtensible Business Reporting Language, XBRL), enterprise architecture (Archimate), data mining and data science (Python) among others.
 - 💞️ If you are interested in data-driven decision making or applying data science in business, let him know.  In the digital landscape of perpetual change, he can help you apply fundamental business and data science concepts to extract useful information and knowledge from large volumes of data and transform it into customer value and competitive advantage.
 - 📫 Reach him at [LinkedIn](https://www.linkedin.com/in/lubomir-straka-7361031/), 
@@ -17,7 +17,11 @@ by 3-year Master of Business Administration training (2004) and by 3-year psycho
 
 # 🎨 Service Catalogue (🚧 under construction 🚧)
 ## 📈 Data Science for Business
-To be completed
+> *Where most mistakes come from?* Most mistakes don't come from low intelligence (even people with extreme raw intelligence make mistakes) neither they come from a lack of experience (even people with tons of experience make mistakes). **Mistakes come from what we can't see. Mistakes come from blind spots.** 
+
+> *In life and business, the person with the fewest blind spots wins.* It’s hard to make good decisions when you don’t have the facts. It’s hard to make good decisions when you’re solving the wrong problem. It’s hard to make good decisions when you’re missing key pieces of information. It’s hard to make good decisions without perspective. [[fscourses.com/decision-by-design](https://fscourses.com/p/decision-by-design)]
+
+**Data science is not a panacea but something we cannot ignore without penalty** (though sometimes unseen).
 
 ## 🦸 Digital Freelancer Pattern Language
 > The elements of this language are entities called patterns. Each pattern describes a problem which occurs over and over again in our environment, and then describes the core of the solution to that problem, in such a way that you can use this solution a million times over, without ever doing it the same way twice. [A Pattern Language by Christopher Alexander, 1977]
