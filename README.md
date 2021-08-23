@@ -5,7 +5,7 @@ by 3-year Master of Business Administration training (2004) and by 3-year psycho
 - 🌱 He eagerly conquers domains such as mental models ([Farnam Street Learning Community](https://lc.fs.blog/)), managerial and financial accounting
 (incl. eXtensible Business Reporting Language, XBRL), enterprise architecture (Archimate), data mining and data science (Python) among others.
 - 💞️ If you are interested in data-driven decision making or applying data science in business, let him know.  In the digital landscape of perpetual change, he can help you apply fundamental business and data science concepts to extract useful information and knowledge from large volumes of data and transform it into customer value and competitive advantage.
-- 📫 Reach him at [LinkedIn](https://www.linkedin.com/in/lubomir-straka-7361031/), 
+- 📫 Reach him at [LinkedIn](https://www.linkedin.com/in/lubomir-straka/), 
 [Upwork](https://www.upwork.com/freelancers/~01ebfcb469ff1ca3d6?viewMode=1), 
 [Freelancer](https://www.freelancer.com/u/straka),
 [Kaggle](https://www.kaggle.com/lubomrstraka).
