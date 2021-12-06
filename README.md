@@ -4,8 +4,8 @@
 by 3-year Master of Business Administration training (2004) and by 3-year psychological training in Organizational Transactional Analysis (2012).
 - 🌱 He eagerly conquers domains such as mental models ([Farnam Street Learning Community](https://lc.fs.blog/)), managerial and financial accounting
 (incl. eXtensible Business Reporting Language, XBRL), enterprise architecture (Archimate), data mining and data science (Python) among others.
-- 💞️  Lubomir engages in adoption of digital products and solutions to meet business requirements in finance and managerial accounting. As data science is transforming our business landscape, he completed Udacity's Machine Learning Engineer with Microsoft Azure Nanodegree Program in August 2021. Right now, he's working on cloud deployment of Microsoft Dynamics 365 Finance and Supply Chain Management in ANS of the CR. 
-- ⚙️ Skills: Business Intelligence, Business System Analysis, Enterprise Architecture, Technical Writing, Python, Machine Learning.
+- 💞️  Lubomir engages in adoption of digital products and solutions to meet business requirements in finance and managerial accounting. As data science is transforming our business landscape, he completed Udacity's Machine Learning Engineer with Microsoft Azure Nanodegree Program in August 2021 and the Data Analyst Nanodegree Program (November 2021). Right now, he's working on digital transformation of company's internal business information systems. 
+- ⚙️ Skills: Financial and managerial accounting, Business and competitive intelligence, Systems analysis and engineering, Knowledge discovery and data mining, Personal development, Enterprise Architecture, Technical Writing, Python, Machine Learning.
 - 📫 Reach him at [LinkedIn](https://www.linkedin.com/in/lubomir-straka/), 
 [Upwork](https://www.upwork.com/freelancers/~01ebfcb469ff1ca3d6?viewMode=1), 
 [Freelancer](https://www.freelancer.com/u/straka),
